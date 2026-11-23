@@ -11,6 +11,9 @@
   "repository": "https://github.com/G2X-Team/govcon-claude-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://g2x.com/privacy-policy",
+  "termsOfServiceUrl": "https://g2x.com/community-member-guidelines",
+  "supportUrl": "https://g2x.com/support",
+  "documentationUrl": "https://g2x.com/docs/connect",
   "keywords": [
     "government contracting",
     "govcon",
