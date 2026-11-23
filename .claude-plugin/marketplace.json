@@ -1,0 +1,15 @@
+{
+  "name": "g2x-govcon",
+  "description": "G2X GovCon Growth Engine: the GovCon MCP and GovCon skills library for Claude.",
+  "owner": {
+    "name": "G2X",
+    "url": "https://g2x.com"
+  },
+  "plugins": [
+    {
+      "name": "g2x",
+      "source": "./",
+      "description": "The GovCon MCP and GovCon skills library from G2X. Find and qualify federal, state and local opportunities, read full solicitations, research incumbents and teaming partners, and run capture, pipeline and CRM work from Claude."
+    }
+  ]
+}
